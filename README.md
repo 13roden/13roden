@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Senior Data Science Student & Former Data Analyst
+# 👋 Hi, I'm a Data Science Student & Former Data Analyst
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-SQLite%20%7C%20PostgreSQL-4169E1?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -70,8 +70,8 @@ My core areas of focus include:
 ## 📬 Contact & Connect
 
 - **GitHub**: [@13roden](https://github.com/13roden)
-- **LinkedIn**: [linkedin.com/in/13roden](https://linkedin.com/)
-- **Email**: `your.email@example.edu`
+- **LinkedIn**: [[linkedin.com/in/](https://linkedin.com/)](https://www.linkedin.com/in/broden-nestler/)
+- **Email**: `broden.nestler@gmail.com`
 
 ---
 *All project repositories include clean Python scripts, sample data, and unit tests designed for straightforward execution.*
