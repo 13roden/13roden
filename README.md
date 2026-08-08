@@ -7,7 +7,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 > **B.S. in Data Science / Analytics Candidate (Senior Year)**  
-> Former **Data Analyst intern** with hands-on experience in SQL data extraction, exploratory data analysis, practical machine learning classification, and statistical A/B testing.
+> Former **Data Analyst intern** with hands-on experience in SQL data extraction, exploratory data analysis, and reporting (PowerBI and SSRS).
 
 ---
 
@@ -58,12 +58,12 @@ My core areas of focus include:
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python 3, SQL (SQLite, PostgreSQL), R |
+| **Languages** | Python 3, SQL, R, (a little) C++ |
 | **Data Manipulation** | Pandas, NumPy, Data Cleaning, Regular Expressions, String Processing |
 | **Machine Learning** | Scikit-Learn (Classification, Regression, Preprocessing, Cross-Validation, Feature Importances) |
 | **Statistical Analysis** | A/B Testing, Hypothesis Testing (t-tests, Chi-Square), Confidence Intervals, Summary Stats |
-| **Databases** | SQLite, PostgreSQL, Relational Schema Design, SQL Queries (JOINs, GROUP BY, Window Functions) |
-| **Visualization** | Seaborn, Matplotlib, Data Storytelling |
+| **Databases** | MSSqlServer, Relational Schema Design, SQL Queries, Views, and Sprocs (JOINs, GROUP BY, Window Functions) |
+| **Visualization** | PowerBI, Seaborn, Matplotlib, Data Storytelling |
 
 ---
 
