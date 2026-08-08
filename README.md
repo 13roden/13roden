@@ -16,7 +16,7 @@
 I am a senior undergraduate data science student passionate about leveraging data to solve real business problems. Having worked as a Data Analyst, I combine strong SQL and data wrangling skills with rigorous statistical evaluation and machine learning modeling.
 
 My core areas of focus include:
-- **Data Acquisition & SQL ETL**: Parsing messy datasets, string cleaning, schema creation, and database querying in SQLite/PostgreSQL.
+- **Data Acquisition & SQL ETL**: Parsing messy datasets, string cleaning, schema creation, and database querying in MS SQL Server (SSMS).
 - **Exploratory Analytics & Machine Learning**: Building leakage-free feature pipelines, conducting thorough EDA, and benchmarking baseline vs. ensemble classification models (Logistic Regression, Random Forest, Gradient Boosting).
 - **Statistical Hypothesis Testing & A/B Analysis**: Evaluating experimental data using Welch's t-tests, Chi-Square tests, power calculations, and confidence intervals to provide actionable business recommendations.
 
