@@ -65,6 +65,12 @@ My core areas of focus include:
 | **Databases** | MSSqlServer, Relational Schema Design, SQL Queries, Views, and Sprocs (JOINs, GROUP BY, Window Functions) |
 | **Visualization** | PowerBI, Seaborn, Matplotlib, Data Storytelling |
 
+### 4. Intent-Driven UI State Controller ([`project-4-intent-ui-controller`](file:///c:/Users/brode/OneDrive/Desktop/Projects/Antigravity/GitHub%20Portfolio/project-4-intent-ui-controller))
+**Role Simulated:** AI Solutions Architect (UX Team)
+- **Concept**: A multimodal interface system where natural language commands (e.g., "switch to dark mode", "show me Q3 sales") are mapped directly to strict JSON frontend state changes.
+- **Tools Used**: `scikit-learn` (TF-IDF, Logistic Regression), Regex Entity Extraction, Application State Management.
+- **Highlights**: Demonstrates the ability to use lightweight, low-latency machine learning models to solve complex UI navigation friction, bridging the gap between backend AI and frontend user experience.
+
 ---
 
 ## 📬 Contact & Connect
